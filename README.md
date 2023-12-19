@@ -4,7 +4,7 @@ Visualization of San Diego traffic risk based on historical collision data
 # Data sources:
 pd_beat_codes_list_datasd.csv: 	https://data.sandiego.gov/datasets/police-beats/
 
-pd_collisions_details_datasd.csv: https://data.sandiego.gov/datasets/police-collisions-details/
+pd_collisions_details_datasd.csv: https://data.sandiego.gov/datasets/police-collisions-details/(This file needs to be downloaded online by yourself)
 
 traffic_counts_datasd.csv: https://data.sandiego.gov/datasets/traffic-volumes/
 
